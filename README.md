@@ -9,7 +9,7 @@ alat alat yang diperlukan :
 2. kabel jumper male to male 11pcs (1,7k)
 3. push button 1pcs (1,2k)
 4. breadboard 400 point (6,5k)
-5. resistor 220 ohm 9 pcs (900)
+5. resistor 220 ohm 8 pcs dan resistor 10k ohm 1 pcs (900)
 6. common anode 0.56 inch 1pcs (1,7k)
 
 TOTAL = 64k
