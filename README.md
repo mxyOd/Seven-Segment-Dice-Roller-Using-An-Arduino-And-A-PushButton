@@ -1,7 +1,8 @@
 HASIL KERJA KELOMPOK 3 PROJECT "SEVEN SEGMENT DICE ROLLER USING AN ARDUINO AND A PUSHBUTTON"
 
 
-## 📸 Preview <img width="930" height="567" alt="image" src="https://github.com/user-attachments/assets/d2e87749-d970-4784-9438-66eda2ee0787" />
+## 📸 Preview
+<img width="930" height="567" alt="image" src="https://github.com/user-attachments/assets/d2e87749-d970-4784-9438-66eda2ee0787" />
 ini adalah alat dan bahan 
 
 alat alat yang diperlukan :
